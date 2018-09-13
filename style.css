@@ -1,0 +1,18 @@
+div {
+    background-color: black;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+
+div#two {
+    opacity: 0.75;
+}
+
+div#three {
+    opacity: 0.5;
+}
+
+div#four {
+    opacity: 0.25;
+}
